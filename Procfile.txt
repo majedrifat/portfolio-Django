@@ -1,1 +1,1 @@
-web: gunicorn majedul2020.wsgi --log-file -
+web: gunicorn projectname.wsgi --log-file -
